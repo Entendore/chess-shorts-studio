@@ -1,0 +1,173 @@
+{
+ "version": 1,
+ "puzzles": {
+  "k7/ppp5/2P5/8/7P/4R3/4K3/8 w - -": {
+   "kind": "back_rank",
+   "label": "Back-Rank Mate",
+   "san": "1. Re8#",
+   "fen": "k7/ppp5/2P5/8/7P/4R3/4K3/8 w - - 0 1",
+   "video": "chess_shorts_20260902_211734.mp4",
+   "rendered": "2026-09-02 21:17"
+  },
+  "8/8/8/8/6P1/2RQ4/k6b/B2K4 w - -": {
+   "kind": "mate_in_1",
+   "label": "Mate in 1",
+   "san": "1. Ra3#",
+   "fen": "8/8/8/8/6P1/2RQ4/k6b/B2K4 w - - 0 1",
+   "video": "chess_shorts_20260902_211750.mp4",
+   "rendered": "2026-09-02 21:18"
+  },
+  "7N/7k/8/2KQ2pP/3B4/5R2/5b2/2Q5 w - g6": {
+   "kind": "en_passant",
+   "label": "En Passant Mate",
+   "san": "1. hxg6#",
+   "fen": "7N/7k/8/2KQ2pP/3B4/5R2/5b2/2Q5 w - g6 0 1",
+   "video": "chess_shorts_20260902_213346.mp4",
+   "rendered": "2026-09-02 21:34"
+  },
+  "8/3n4/3K4/4QR2/2RR4/8/1k1q4/8 w - -": {
+   "kind": "double_check",
+   "label": "Double Check",
+   "san": "1. Rxd2+ Kb1 2. Rf1#",
+   "fen": "8/3n4/3K4/4QR2/2RR4/8/1k1q4/8 w - - 0 1",
+   "video": "chess_shorts_20260902_214616.mp4",
+   "rendered": "2026-09-02 21:46"
+  },
+  "8/1R6/8/8/5Q2/2n2N2/1P1P4/2k3K1 w - -": {
+   "kind": "pin_win",
+   "label": "Pin & Win",
+   "san": "1. Rc7 Kc2 2. Rxc3+",
+   "fen": "8/1R6/8/8/5Q2/2n2N2/1P1P4/2k3K1 w - - 0 1",
+   "video": "chess_shorts_20260902_214636.mp4",
+   "rendered": "2026-09-02 21:46"
+  },
+  "8/8/1P6/rR1K4/3N4/1R1P4/k7/8 w - -": {
+   "kind": "mate_in_1",
+   "label": "Mate in 1",
+   "san": "1. Rxa5#",
+   "fen": "8/8/1P6/rR1K4/3N4/1R1P4/k7/8 w - - 0 1",
+   "video": "chess_shorts_20260902_214655.mp4",
+   "rendered": "2026-09-02 21:47"
+  },
+  "6K1/8/8/2R5/1kp5/8/3R4/3N1Q2 w - -": {
+   "kind": "mate_in_2",
+   "label": "Mate in 2",
+   "san": "1. Qxc4+ Ka3 2. Ra5#",
+   "fen": "6K1/8/8/2R5/1kp5/8/3R4/3N1Q2 w - - 0 1",
+   "video": "chess_shorts_20260902_214711.mp4",
+   "rendered": "2026-09-02 21:47"
+  },
+  "N7/5K2/8/8/4r3/k7/8/2RQ4 w - -": {
+   "kind": "queen_fork",
+   "label": "Queen Fork",
+   "san": "1. Qf3+ Ka4 2. Qxe4+",
+   "fen": "N7/5K2/8/8/4r3/k7/8/2RQ4 w - - 0 1",
+   "video": "chess_shorts_20260902_214736.mp4",
+   "rendered": "2026-09-02 21:47"
+  },
+  "8/2K5/2b5/8/2Rqk3/1Q6/8/R7 w - -": {
+   "kind": "discovered",
+   "label": "Discovered Attack",
+   "san": "1. Rb4 Bb5 2. Rxd4+",
+   "fen": "8/2K5/2b5/8/2Rqk3/1Q6/8/R7 w - - 0 1",
+   "video": "chess_shorts_20260902_214754.mp4",
+   "rendered": "2026-09-02 21:48"
+  },
+  "2N5/8/2P1q1N1/8/7K/4k3/8/5Q2 w - -": {
+   "kind": "skewer",
+   "label": "Skewer",
+   "san": "1. Qe1+ Kd4 2. Qxe6",
+   "fen": "2N5/8/2P1q1N1/8/7K/4k3/8/5Q2 w - - 0 1",
+   "video": "chess_shorts_20260902_214815.mp4",
+   "rendered": "2026-09-02 21:48"
+  },
+  "7k/4Q3/5P2/8/6B1/8/8/6K1 w - -": {
+   "kind": "mate_in_1",
+   "label": "Mate in 1",
+   "san": "1. Qg7#",
+   "fen": "7k/4Q3/5P2/8/6B1/8/8/6K1 w - - 0 1",
+   "video": "chess_shorts_20260902_214835.mp4",
+   "rendered": "2026-09-02 21:48"
+  },
+  "8/1K6/5N2/8/1N1p4/2QR4/3q4/1k1NQ3 w - -": {
+   "kind": "sacrifice",
+   "label": "Sacrifice & Mate",
+   "san": "1. Qb2+ Qxb2 2. Nc3#",
+   "fen": "8/1K6/5N2/8/1N1p4/2QR4/3q4/1k1NQ3 w - - 0 1",
+   "video": "chess_shorts_20260902_214902.mp4",
+   "rendered": "2026-09-02 21:49"
+  },
+  "8/8/1K6/4P3/1n1R4/Qn2R3/3PQ3/1k6 w - -": {
+   "kind": "pin_win",
+   "label": "Pin & Win",
+   "san": "1. Rxb4 Kc2 2. Rbxb3",
+   "fen": "8/8/1K6/4P3/1n1R4/Qn2R3/3PQ3/1k6 w - - 0 1",
+   "video": "chess_shorts_20260902_214925.mp4",
+   "rendered": "2026-09-02 21:49"
+  },
+  "8/6BQ/6p1/7N/R3p1R1/7K/3k4/6B1 w - -": {
+   "kind": "ladder",
+   "label": "Ladder Mate",
+   "san": "1. Rg2+ Ke1 2. Ra1#",
+   "fen": "8/6BQ/6p1/7N/R3p1R1/7K/3k4/6B1 w - - 0 1",
+   "video": "chess_shorts_20260903_023226.mp4",
+   "rendered": "2026-09-03 02:32"
+  },
+  "1k5N/8/1p6/q7/2R5/8/4n1K1/5Q2 w - -": {
+   "kind": "win_piece",
+   "label": "Win a Piece",
+   "san": "1. Qxe2",
+   "fen": "1k5N/8/1p6/q7/2R5/8/4n1K1/5Q2 w - - 0 1",
+   "video": "chess_shorts_20260903_023251.mp4",
+   "rendered": "2026-09-03 02:33"
+  },
+  "7Q/7Q/5r2/7p/3pp1p1/p3N2k/4KR2/7N w - -": {
+   "kind": "mate_in_1",
+   "label": "Mate in 1",
+   "san": "1. Qxh5#",
+   "fen": "7Q/7Q/5r2/7p/3pp1p1/p3N2k/4KR2/7N w - - 0 1",
+   "video": "chess_shorts_20260903_023309.mp4",
+   "rendered": "2026-09-03 02:33"
+  },
+  "N7/6Kp/8/3RpP1k/7p/2Bp4/5N1p/8 w - e6": {
+   "kind": "en_passant",
+   "label": "En Passant Mate",
+   "san": "1. fxe6#",
+   "fen": "N7/6Kp/8/3RpP1k/7p/2Bp4/5N1p/8 w - e6 0 1",
+   "video": "chess_shorts_20260903_023329.mp4",
+   "rendered": "2026-09-03 02:33"
+  },
+  "4nkr1/3R4/4KB2/6R1/1pQ2p1p/8/p7/5B2 w - -": {
+   "kind": "epaulette",
+   "label": "Epaulette Mate",
+   "san": "1. Rf7#",
+   "fen": "4nkr1/3R4/4KB2/6R1/1pQ2p1p/8/p7/5B2 w - - 0 1",
+   "video": "chess_shorts_20260903_023349.mp4",
+   "rendered": "2026-09-03 02:34"
+  },
+  "8/6R1/6p1/K5Bb/BR4B1/4p3/rpQ5/k7 w - -": {
+   "kind": "quiet_mate",
+   "label": "Quiet Mate",
+   "san": "1. Bf6 Bxg4 2. Qc1#",
+   "fen": "8/6R1/6p1/K5Bb/BR4B1/4p3/rpQ5/k7 w - - 0 1",
+   "video": "chess_shorts_20260903_023411.mp4",
+   "rendered": "2026-09-03 02:34"
+  },
+  "7N/2p2K2/7p/4RQ2/8/5p2/pk6/R3R3 w - -": {
+   "kind": "mate_in_2",
+   "label": "Mate in 2",
+   "san": "1. Qxf3 Kc2 2. R5e2#",
+   "fen": "7N/2p2K2/7p/4RQ2/8/5p2/pk6/R3R3 w - - 0 1",
+   "video": "chess_shorts_20260903_023442.mp4",
+   "rendered": "2026-09-03 02:35"
+  },
+  "4R3/8/3K2B1/2Q5/p5r1/2P5/b2k4/8 w - -": {
+   "kind": "mate_in_2",
+   "label": "Mate in 2",
+   "san": "1. Qe3+ Kd1 2. Qe1#",
+   "fen": "4R3/8/3K2B1/2Q5/p5r1/2P5/b2k4/8 w - - 0 1",
+   "video": "chess_shorts_20260903_023506.mp4",
+   "rendered": "2026-09-03 02:35"
+  }
+ }
+}
