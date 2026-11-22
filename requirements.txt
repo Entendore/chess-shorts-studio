@@ -1,0 +1,5 @@
+PySide6>=6.5
+chess>=1.10
+numpy
+imageio
+imageio-ffmpeg
